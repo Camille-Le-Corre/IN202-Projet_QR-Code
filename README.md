@@ -3,6 +3,7 @@ Lecture et analyse d'un QR Code
 
 Avril et mai 2022
 
+#######################################################
 COUSTILLAS Laurédane
 
 LE CORRE Camille
@@ -10,7 +11,7 @@ LE CORRE Camille
 LEFEVRE Laura
 
 LDD BI 1
-
+#######################################################
 
 # Présentation du projet
 
